@@ -1,0 +1,7 @@
+{
+  "task": "Demo task: encrypt a harmless test payload and hold decryption until the approver explicitly authorizes it.",
+  "payload_sha256": "7327cfc0254201a7f722dbe0501255120061af10f141b4c2df0745558a6f5ec2",
+  "created_at": "2026-08-28 15:44:05",
+  "status": "APPROVED",
+  "approved_at": "2026-08-28 15:44:56"
+}
